@@ -1,93 +1,13 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-03T01:27:22" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-03T01:42:21" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
 	<company>ИП "БИРЮКОВА"</company>
 	<merchantid>18285126</merchantid>
 	<offers>
-		<offer sku="655673">
-			<model>Крючки Gamakatsu №2 серебристый 10 шт</model>
-			<brand>Gamakatsu</brand>
-			<availabilities>
-				<availability stockCount="23" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>900</price>
-		</offer>
-		<offer sku="113052">
-			<model>Виброхвост Supercontinent 97 мм 6 шт Серебр-оранж</model>
+		<offer sku="229770133">
+			<model>Tanta Supercontinent 65 мм 10 шт желто-оранжевый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="601565">
-			<model>Виброхвост Supercontinent 97 мм 6 шт зелен-корич</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="4" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="123928">
-			<model>Коробка для приманок, черный </model>
-			<brand>Без бренда</brand>
-			<availabilities>
-				<availability stockCount="1" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1500</price>
-		</offer>
-		<offer sku="318436">
-			<model>Виброхвост Supercontinent 97 мм 6 шт зелен-красн</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="3" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="515921">
-			<model>Крючки Gamakatsu №8 серебристый 10 шт</model>
-			<brand>Gamakatsu</brand>
-			<availabilities>
-				<availability stockCount="34" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>900</price>
-		</offer>
-		<offer sku="995263">
-			<model>Набор Бафф и Бейсболка </model>
-			<brand>Без бренда</brand>
-			<availabilities>
-				<availability stockCount="3" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>5000</price>
-		</offer>
-		<offer sku="898245326">
-			<model>Ароматизатор 60 мл Мотыль (новый)</model>
-			<brand>Без бренда</brand>
-			<availabilities>
-				<availability stockCount="17" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1000</price>
-		</offer>
-		<offer sku="457243538">
-			<model>Tanta Supercontinent 65 мм 10 шт Коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="3" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="681480560">
-			<model>Виброхвост Supercontinent 97 мм 6 шт Коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="10" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="786880614">
-			<model>Tanta Supercontinent 65 мм 10 шт Зелено-красный</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="5" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
@@ -99,248 +19,216 @@
 			</availabilities>
 			<price>1200</price>
 		</offer>
-		<offer sku="229770133">
-			<model>Tanta Supercontinent 65 мм 10 шт желто-оранжевый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="698903225">
-			<model>Tanta Supercontinent 10 шт 65 мм Блу Минт</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="1" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="167463383">
-			<model>Supercontinent Larva LUX 60 мм 8 шт А Коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="459385798">
-			<model>Сатурн Supercontinent 12 шт 80 мм I Белый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="908910396">
-			<model>Сатурн Supercontinent 12 шт 80 мм А Голубой</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="378179980">
-			<model>Сатурн Supercontinent 12 шт 80 мм D Коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="4" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="630152201">
-			<model>Supercontinent Larva LUX 91 мм 4 шт F Блу минт</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="906659215">
-			<model>Supercontinent Bugsy 12 шт 80 мм H Синий</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="431748472">
-			<model>Supercontinent Larva LUX 91 мм 4 шт А Коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="677289501">
-			<model>Сатурн Supercontinent 12 шт 80 мм В Зеленый</model>
+		<offer sku="786880614">
+			<model>Tanta Supercontinent 65 мм 10 шт Зелено-красный</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="5" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
-		<offer sku="561502646">
-			<model>Сатурн Supercontinent 12 шт 80 мм C Оранжевый</model>
+		<offer sku="681480560">
+			<model>Виброхвост Supercontinent 97 мм 6 шт Коричневый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
+				<availability stockCount="10" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>1200</price>
+			<price>1300</price>
 		</offer>
-		<offer sku="196479050">
-			<model>Supercontinent Bugsy 12 шт 80 мм L Масло</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="5" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="755734332">
-			<model>Supercontinent Bugsy 12 шт 80 мм R Темно-коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="774882787">
-			<model>Supercontinent Bugsy 12 шт 80 мм F Малиновый</model>
+		<offer sku="457243538">
+			<model>Tanta Supercontinent 65 мм 10 шт Коричневый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="3" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
-		<offer sku="154482411">
-			<model>Supercontinent Bugsy 12 шт 80 мм C Оранжевый</model>
-			<brand>Supercontinent</brand>
+		<offer sku="898245326">
+			<model>Ароматизатор 60 мл Мотыль (новый)</model>
+			<brand>Без бренда</brand>
 			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
+				<availability stockCount="17" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>1200</price>
+			<price>1000</price>
 		</offer>
-		<offer sku="436371659">
-			<model>Supercontinent Larva LUX 60 мм 8 шт В Фиолет</model>
-			<brand>Supercontinent</brand>
+		<offer sku="995263">
+			<model>Набор Бафф и Бейсболка </model>
+			<brand>Без бренда</brand>
 			<availabilities>
-				<availability stockCount="1" available="yes" storeId="PP1"/>
+				<availability stockCount="3" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>1200</price>
+			<price>5000</price>
 		</offer>
-		<offer sku="456707300">
-			<model>Сатурн Supercontinent 12 шт 80 мм F темно-розовый</model>
-			<brand>Supercontinent</brand>
+		<offer sku="515921">
+			<model>Крючки Gamakatsu №8 серебристый 10 шт</model>
+			<brand>Gamakatsu</brand>
 			<availabilities>
-				<availability stockCount="4" available="yes" storeId="PP1"/>
+				<availability stockCount="34" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>1200</price>
+			<price>900</price>
 		</offer>
-		<offer sku="175882807">
-			<model>Сатурн Supercontinent 12 шт 80 мм J Темно-зеленый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="5" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="379428545">
-			<model>Сатурн Supercontinent 12 шт 80 мм H Синий</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="281587022">
-			<model>Supercontinent Bugsy 12 шт 80 мм B Зеленый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="211776438">
-			<model>Supercontinent Bugsy 12 шт 80 мм J Темно-зеленый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="561316288">
-			<model>Supercontinent Bugsy 12 шт 80 мм А Голубой</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="5" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="706887165">
-			<model>Supercontinent Bugsy 12 шт 80 мм I Белый</model>
+		<offer sku="318436">
+			<model>Виброхвост Supercontinent 97 мм 6 шт зелен-красн</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="3" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>1200</price>
+			<price>1300</price>
 		</offer>
-		<offer sku="374579580">
-			<model>Supercontinent Larva LUX 60 мм 8 шт E Хаки</model>
-			<brand>Supercontinent</brand>
+		<offer sku="123928">
+			<model>Коробка для приманок, черный </model>
+			<brand>Без бренда</brand>
 			<availabilities>
-				<availability stockCount="4" available="yes" storeId="PP1"/>
+				<availability stockCount="1" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>1200</price>
+			<price>1500</price>
 		</offer>
-		<offer sku="023426751">
-			<model>Supercontinent Larva LUX 60 мм 8 шт G Сине-красный</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="022425334">
-			<model>Supercontinent Larva LUX 91 мм 4 шт D Масло</model>
+		<offer sku="601565">
+			<model>Виброхвост Supercontinent 97 мм 6 шт зелен-корич</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="4" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1300</price>
 		</offer>
-		<offer sku="561607377">
-			<model>Supercontinent Larva LUX 60 мм 8 шт J Оранжево-серебристый</model>
+		<offer sku="113052">
+			<model>Виброхвост Supercontinent 97 мм 6 шт Серебр-оранж</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="655673">
+			<model>Крючки Gamakatsu №2 серебристый 10 шт</model>
+			<brand>Gamakatsu</brand>
+			<availabilities>
+				<availability stockCount="23" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="345474">
+			<model>Виброхвост Supercontinent 97 мм 6 шт сине-бордовый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="5" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="502585">
+			<model>Виброхвост Supercontinent 97 мм 6 шт фиолет</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="14" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="825356">
+			<model>Виброхвост Supercontinent 97 мм 6 шт желт-оранж</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="3" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="953626">
+			<model>Виброхвост Supercontinent 80 мм 10 шт серебристо-оранжевый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="2" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
-		<offer sku="051133066">
-			<model>Supercontinent Larva LUX 91 мм 4 шт Е Хаки</model>
+		<offer sku="261162">
+			<model>Рыболовный контейнер Bearking VS-1397B</model>
+			<brand>Bearking</brand>
+			<availabilities>
+				<availability stockCount="11" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1999</price>
+		</offer>
+		<offer sku="451692">
+			<model>Кейс для мормышек двухсторонний 451692</model>
+			<brand>Без бренда</brand>
+			<availabilities>
+				<availability stockCount="9" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>3450</price>
+		</offer>
+		<offer sku="938073">
+			<model>Виброхвост Supercontinent 80 мм 10 шт сине-бордовый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
+				<availability stockCount="2" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="118618">
+			<model>Виброхвост Supercontinent 97 мм 6 шт Красный</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="8" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1300</price>
 		</offer>
-		<offer sku="758165980">
-			<model>Supercontinent Larva LUX 91 мм 4 шт J Оранжево-серебристый</model>
+		<offer sku="827086">
+			<model>Виброхвост Supercontinent 80 мм 10 шт коричневый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="8" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="432442">
+			<model>Крючки Gamakatsu №1 серебристый 10 шт </model>
+			<brand>Gamakatsu</brand>
+			<availabilities>
+				<availability stockCount="16" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="245807">
+			<model>Виброхвост Supercontinent 80 мм 10 шт красный</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="4" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="260642">
+			<model>Крючки Gamakatsu №10 серебристый 10 шт </model>
+			<brand>Gamakatsu</brand>
+			<availabilities>
+				<availability stockCount="33" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="932680">
+			<model>Крючки Gamakatsu №6 серебристый 10 шт</model>
+			<brand>Gamakatsu</brand>
+			<availabilities>
+				<availability stockCount="30" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>900</price>
+		</offer>
+		<offer sku="775318910">
+			<model>Supercontinent Larva LUX 91 мм 4 шт М Оранжево-желтый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="7" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1300</price>
 		</offer>
-		<offer sku="357747211">
-			<model>Supercontinent Larva LUX 91 мм 4 шт I Зелен-красный</model>
+		<offer sku="788673699">
+			<model>Supercontinent Larva LUX 60 мм 8 шт F Блу-минт</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
-				<availability stockCount="4" available="yes" storeId="PP1"/>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>1300</price>
+			<price>1200</price>
 		</offer>
-		<offer sku="081418191">
-			<model>Supercontinent Larva LUX 91 мм 4 шт К Корич-зеленый</model>
+		<offer sku="620520360">
+			<model>Supercontinent Larva LUX 91 мм 4 шт G Сине-красный</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="5" available="yes" storeId="PP1"/>
@@ -355,13 +243,245 @@
 			</availabilities>
 			<price>1200</price>
 		</offer>
-		<offer sku="620520360">
-			<model>Supercontinent Larva LUX 91 мм 4 шт G Сине-красный</model>
+		<offer sku="081418191">
+			<model>Supercontinent Larva LUX 91 мм 4 шт К Корич-зеленый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="5" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1300</price>
+		</offer>
+		<offer sku="357747211">
+			<model>Supercontinent Larva LUX 91 мм 4 шт I Зелен-красный</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="4" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="758165980">
+			<model>Supercontinent Larva LUX 91 мм 4 шт J Оранжево-серебристый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="051133066">
+			<model>Supercontinent Larva LUX 91 мм 4 шт Е Хаки</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="561607377">
+			<model>Supercontinent Larva LUX 60 мм 8 шт J Оранжево-серебристый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="2" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="022425334">
+			<model>Supercontinent Larva LUX 91 мм 4 шт D Масло</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="4" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="023426751">
+			<model>Supercontinent Larva LUX 60 мм 8 шт G Сине-красный</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="374579580">
+			<model>Supercontinent Larva LUX 60 мм 8 шт E Хаки</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="4" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="706887165">
+			<model>Supercontinent Bugsy 12 шт 80 мм I Белый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="3" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="561316288">
+			<model>Supercontinent Bugsy 12 шт 80 мм А Голубой</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="5" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="211776438">
+			<model>Supercontinent Bugsy 12 шт 80 мм J Темно-зеленый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="281587022">
+			<model>Supercontinent Bugsy 12 шт 80 мм B Зеленый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="379428545">
+			<model>Сатурн Supercontinent 12 шт 80 мм H Синий</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="175882807">
+			<model>Сатурн Supercontinent 12 шт 80 мм J Темно-зеленый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="5" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="456707300">
+			<model>Сатурн Supercontinent 12 шт 80 мм F темно-розовый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="4" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="436371659">
+			<model>Supercontinent Larva LUX 60 мм 8 шт В Фиолет</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="1" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="154482411">
+			<model>Supercontinent Bugsy 12 шт 80 мм C Оранжевый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="774882787">
+			<model>Supercontinent Bugsy 12 шт 80 мм F Малиновый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="3" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="755734332">
+			<model>Supercontinent Bugsy 12 шт 80 мм R Темно-коричневый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="196479050">
+			<model>Supercontinent Bugsy 12 шт 80 мм L Масло</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="5" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="561502646">
+			<model>Сатурн Supercontinent 12 шт 80 мм C Оранжевый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="677289501">
+			<model>Сатурн Supercontinent 12 шт 80 мм В Зеленый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="5" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="431748472">
+			<model>Supercontinent Larva LUX 91 мм 4 шт А Коричневый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="906659215">
+			<model>Supercontinent Bugsy 12 шт 80 мм H Синий</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="630152201">
+			<model>Supercontinent Larva LUX 91 мм 4 шт F Блу минт</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="7" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1300</price>
+		</offer>
+		<offer sku="378179980">
+			<model>Сатурн Supercontinent 12 шт 80 мм D Коричневый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="4" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="908910396">
+			<model>Сатурн Supercontinent 12 шт 80 мм А Голубой</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="459385798">
+			<model>Сатурн Supercontinent 12 шт 80 мм I Белый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="167463383">
+			<model>Supercontinent Larva LUX 60 мм 8 шт А Коричневый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="698903225">
+			<model>Tanta Supercontinent 10 шт 65 мм Блу Минт</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="1" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
 		</offer>
 		<offer sku="252035783">
 			<model>Supercontinent Larva LUX 60 мм 8 шт I Зелен-красный</model>
@@ -490,126 +610,6 @@
 				<availability stockCount="8" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
-		</offer>
-		<offer sku="345474">
-			<model>Виброхвост Supercontinent 97 мм 6 шт сине-бордовый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="5" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="502585">
-			<model>Виброхвост Supercontinent 97 мм 6 шт фиолет</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="14" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="825356">
-			<model>Виброхвост Supercontinent 97 мм 6 шт желт-оранж</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="3" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="953626">
-			<model>Виброхвост Supercontinent 80 мм 10 шт серебристо-оранжевый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="2" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="261162">
-			<model>Рыболовный контейнер Bearking VS-1397B</model>
-			<brand>Bearking</brand>
-			<availabilities>
-				<availability stockCount="11" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1999</price>
-		</offer>
-		<offer sku="451692">
-			<model>Кейс для мормышек двухсторонний 451692</model>
-			<brand>Без бренда</brand>
-			<availabilities>
-				<availability stockCount="9" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>3450</price>
-		</offer>
-		<offer sku="938073">
-			<model>Виброхвост Supercontinent 80 мм 10 шт сине-бордовый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="2" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="118618">
-			<model>Виброхвост Supercontinent 97 мм 6 шт Красный</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="8" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
-		</offer>
-		<offer sku="827086">
-			<model>Виброхвост Supercontinent 80 мм 10 шт коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="8" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="432442">
-			<model>Крючки Gamakatsu №1 серебристый 10 шт </model>
-			<brand>Gamakatsu</brand>
-			<availabilities>
-				<availability stockCount="16" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>900</price>
-		</offer>
-		<offer sku="245807">
-			<model>Виброхвост Supercontinent 80 мм 10 шт красный</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="4" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="260642">
-			<model>Крючки Gamakatsu №10 серебристый 10 шт </model>
-			<brand>Gamakatsu</brand>
-			<availabilities>
-				<availability stockCount="33" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>900</price>
-		</offer>
-		<offer sku="932680">
-			<model>Крючки Gamakatsu №6 серебристый 10 шт</model>
-			<brand>Gamakatsu</brand>
-			<availabilities>
-				<availability stockCount="30" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>900</price>
-		</offer>
-		<offer sku="788673699">
-			<model>Supercontinent Larva LUX 60 мм 8 шт F Блу-минт</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="775318910">
-			<model>Supercontinent Larva LUX 91 мм 4 шт М Оранжево-желтый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1300</price>
 		</offer>
 	</offers>
 </kaspi_catalog>
