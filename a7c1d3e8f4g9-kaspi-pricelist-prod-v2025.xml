@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-09T11:05:03" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2025-10-09T11:20:04" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
 	<company>ИП "БИРЮКОВА"</company>
 	<merchantid>18285126</merchantid>
 	<offers>
@@ -45,6 +45,14 @@
 		</offer>
 		<offer sku="717564">
 			<model>Виброхвост Supercontinent 80 мм 10 шт красн-зелен</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="10" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="413156">
+			<model>Виброхвост Supercontinent 80 мм 10 шт фиолетовый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="10" available="yes" storeId="PP1"/>
@@ -218,6 +226,22 @@
 				<availability stockCount="34" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>900</price>
+		</offer>
+		<offer sku="132899">
+			<model>Виброхвост Supercontinent 80мм 10 шт желт-розовый</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="10" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="425772">
+			<model>Виброхвост Supercontinent 80 мм 10 шт желт-оранж</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="10" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
 		</offer>
 		<offer sku="995263">
 			<model>Набор Бафф и Бейсболка </model>
@@ -896,6 +920,14 @@
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="11" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1200</price>
+		</offer>
+		<offer sku="">
+			<model>Виброхвост Supercontinent 80 мм 10 шт зелен-фиолет</model>
+			<brand>Supercontinent</brand>
+			<availabilities>
+				<availability stockCount="10" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
