@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-04T04:01:02" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-02-04T04:31:02" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
 	<company>ИП "БИРЮКОВА"</company>
 	<merchantid>18285126</merchantid>
 	<offers>
@@ -399,7 +399,7 @@
 			<model>Ароматизатор 60 мл Мотыль (новый)</model>
 			<brand>Без бренда</brand>
 			<availabilities>
-				<availability stockCount="14" available="yes" storeId="PP1"/>
+				<availability stockCount="13" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1000</price>
 		</offer>
