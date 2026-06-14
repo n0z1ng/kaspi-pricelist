@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-14T08:54:42" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-06-14T09:24:42" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
 	<company>ИП "БИРЮКОВА"</company>
 	<merchantid>18285126</merchantid>
 	<offers>
@@ -9,7 +9,7 @@
 			<availabilities>
 				<availability stockCount="13" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>900</price>
+			<price>1000</price>
 		</offer>
 		<offer sku="260642">
 			<model>Крючки Gamakatsu №10 серебристый 10 шт </model>
@@ -17,7 +17,7 @@
 			<availabilities>
 				<availability stockCount="10" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>900</price>
+			<price>1000</price>
 		</offer>
 		<offer sku="245807">
 			<model>Виброхвост Supercontinent 80 мм 10 шт красный</model>
@@ -26,6 +26,14 @@
 				<availability stockCount="5" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
+		</offer>
+		<offer sku="432442">
+			<model>Крючки Gamakatsu №1 серебристый 10 шт </model>
+			<brand>Gamakatsu</brand>
+			<availabilities>
+				<availability stockCount="3" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1000</price>
 		</offer>
 		<offer sku="522144">
 			<model>Виброхвост Supercontinent 97 мм 6 шт фиолет-розовый</model>
@@ -251,6 +259,14 @@
 			</availabilities>
 			<price>1300</price>
 		</offer>
+		<offer sku="655673">
+			<model>Крючки Gamakatsu №2 серебристый 10 шт</model>
+			<brand>Gamakatsu</brand>
+			<availabilities>
+				<availability stockCount="4" available="yes" storeId="PP1"/>
+			</availabilities>
+			<price>1000</price>
+		</offer>
 		<offer sku="113052">
 			<model>Виброхвост Supercontinent 97 мм 6 шт Серебр-оранж</model>
 			<brand>Supercontinent</brand>
@@ -321,15 +337,15 @@
 			<availabilities>
 				<availability stockCount="8" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>900</price>
+			<price>1000</price>
 		</offer>
 		<offer sku="524454">
 			<model>Крючки Gamakatsu №4 серебристый 10 шт</model>
 			<brand>Gamakatsu</brand>
 			<availabilities>
-				<availability stockCount="22" available="yes" storeId="PP1"/>
+				<availability stockCount="26" available="yes" storeId="PP1"/>
 			</availabilities>
-			<price>900</price>
+			<price>1000</price>
 		</offer>
 		<offer sku="132899">
 			<model>Виброхвост Supercontinent 80мм 10 шт желт-розовый</model>
