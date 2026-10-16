@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-10-16T11:24:25" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" date="2026-10-16T11:54:23" xmlns="kaspiShopping" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
 	<company/>
 	<merchantid>18285126</merchantid>
 	<offers>
@@ -40,14 +40,6 @@
 			<brand>Supercontinent</brand>
 			<availabilities>
 				<availability stockCount="5" available="yes" storeId="PP1"/>
-			</availabilities>
-			<price>1200</price>
-		</offer>
-		<offer sku="827086">
-			<model>Виброхвост Supercontinent 80 мм 10 шт коричневый</model>
-			<brand>Supercontinent</brand>
-			<availabilities>
-				<availability stockCount="1" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
@@ -95,7 +87,7 @@
 			<model>Виброхвост Supercontinent 80 мм 10 шт серебристо-оранжевый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
+				<availability stockCount="5" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
@@ -207,7 +199,7 @@
 			<model>Виброхвост Supercontinent 97 мм 6 шт зелен-корич</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
-				<availability stockCount="6" available="yes" storeId="PP1"/>
+				<availability stockCount="5" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1300</price>
 		</offer>
@@ -703,7 +695,7 @@
 			<model>Виброхвост Supercontinent 80 мм 10 шт черно-оранжевый О</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
-				<availability stockCount="7" available="yes" storeId="PP1"/>
+				<availability stockCount="6" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1200</price>
 		</offer>
@@ -719,7 +711,7 @@
 			<model>Виброхвост Supercontinent 97 мм 6 шт черно-фиолетовый</model>
 			<brand>Supercontinent</brand>
 			<availabilities>
-				<availability stockCount="3" available="yes" storeId="PP1"/>
+				<availability stockCount="2" available="yes" storeId="PP1"/>
 			</availabilities>
 			<price>1300</price>
 		</offer>
